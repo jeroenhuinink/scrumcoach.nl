@@ -1,0 +1,12 @@
+{
+  "name": "scrumcoach.nl",
+  "version": "1.0.0",
+  "description": "Sample website",
+  "main": "dist/index.html",
+  "repository": "git@github.com:jeroenhuinink/scrumcoach.nl.git",
+  "author": "Jeroen Huinink <jeroen@studio-h3o.nl>",
+  "license": "MIT",
+  "scripts": {
+    "build": "mkdir -p dist; cp src/* dist"
+  }
+}
